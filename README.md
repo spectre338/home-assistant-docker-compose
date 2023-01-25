@@ -5,7 +5,7 @@ Some changes are required, but outside of editing ".env" file, it should work ou
 
 # Usage
 
-    git clone https://github.com/codingPear/home-assistant-docker-compose.git
+    git clone https://github.com/spectre338/home-assistant-docker-compose.git
     cd home-assistant-docker-compose
     nano -l .env #or whatever editor you prefer
     (change default settings & save)
